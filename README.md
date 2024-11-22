@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm G M Mehedi Hasan (Parvez)</h1>
 <h3 align="center">I'm a passionate Java backend developer based in Dhaka, Bangladesh. With a love for coding and a knack for problem-solving, I'm on a journey to create meaningful and efficient software solutions.</h3>
 
-- 🌱 I’m currently learning **Java, Spring Boot**
+- 🌱 I’m currently working on **Java, Spring Boot**
 
 - 💬 Ask me about **C++, Java, Data Structures & Algorithms**
 
@@ -40,11 +40,6 @@ I'm passionate about sharing my knowledge and experiences in these areas, feel f
 
 ### 🧩 A Bit More About Me:
 I find joy in tackling complex challenges and turning them into elegant solutions through clean code. Whether it's crafting a back-end logic or optimizing database queries, I enjoy every step of the development process. When I'm not coding, you can find me exploring the world of competitive programming or unwinding with a good book.
-
-### 🎓 Education
-  **BSc (Hons) in Information Technology**\
-  [Jahangirnagar University](https://www.juniv.edu/)\
-  March 2018 - May 2023
 
 ### 📁 Projects
 #### [Online Book Library](https://github.com/mehedibjit/online-book-library)
