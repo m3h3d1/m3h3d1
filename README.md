@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **C++, Java, Data Structures & Algorithms**
 
-- 📧 Email me at **hasanmehediiitju@gmail.com**
+- 📧 Email me at **mehedihasansde@gmail.com**
 I'm passionate about sharing my knowledge and experiences in these areas, feel free to ask me anything!
     
 </p>
