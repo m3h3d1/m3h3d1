@@ -38,37 +38,6 @@ I'm passionate about sharing my knowledge and experiences in these areas, feel f
 
 ---
 
-### 🧩 A Bit More About Me:
-I find joy in tackling complex challenges and turning them into elegant solutions through clean code. Whether it's crafting a back-end logic or optimizing database queries, I enjoy every step of the development process. When I'm not coding, you can find me exploring the world of competitive programming or unwinding with a good book.
-
-### 📁 Projects
-#### [Online Book Library](https://github.com/mehedibjit/online-book-library)
-• Implemented secure role‑based access control, distinguishing between admin (with CRUD privileges for book management) and customers
-(with borrowing, returning, and reviewing capabilities).
-• **Technical Skills**: Java, Spring Boot, MySQL
-
-#### [Healthcare Management System](https://github.com/m3h3d1/HMS)
-• Developing a Healthcare Management System (HMS) web application with a microservices architecture, incorporating role‑based authentica‑
-tion, profile management, appointment scheduling, inventory management, community service integration and notification services among
-other features.
-• Technical Skills: Java, Spring Boot, MySQL, ReactJS
-
-#### 📚 [English Vocabulary Program using BST](https://github.com/m3h3d1/English-Vocabulary-Program-using-BST)
-- Developed an English vocabulary program from scratch, utilizing Binary Search Tree and linked list implementation.
-- **Technical Skills**: C++, Binary Search Tree
-
-#### 🏥 [Hospital Management System](https://github.com/m3h3d1/Hospital)
-- Implemented a Hospital Management System project using Java Swing and MySQL.
-- The system effectively manages various aspects of hospital operations, including patient management, tracking doctors, admission, appointment scheduling, and billing.
-- **Technical Skills**: Java (Swing), MySQL
-
-#### ✈️ [Tourism Recommender](https://github.com/m3h3d1/Tourism-Recommender)
-- Developed a tourism recommender website using HTML, CSS, and PHP.
-- Users can review places based on their interests, and they will receive recommendations based on others' reviews.
-- **Technical Skills**: HTML, CSS, PHP
-
----
-
 <h3 align="center">Statistics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m3h3d1&label=Profile%20views&color=0e75b6&style=flat" alt="m3h3d1" /> </p>
