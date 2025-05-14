@@ -1,40 +1,16 @@
-<h1 align="center">Hi 👋, I'm Mehedi Hasan (Parvez)</h1>
-<h3 align="center">I'm a passionate Java backend developer based in Dhaka, Bangladesh. With a love for coding and a knack for problem-solving, I'm on a journey to create meaningful and efficient software solutions.</h3>
-
-- 🌱 I’m currently working on **Java, Spring Boot**
-
-- 💬 Ask me about **C++, Java, Data Structures & Algorithms**
-
-- 📧 Email me at **mehedihasansde@gmail.com**
-I'm passionate about sharing my knowledge and experiences in these areas, feel free to ask me anything!
-    
-</p>
+![image](https://github.com/user-attachments/assets/27ac4563-d92c-4f3f-b500-18c4826fdcb4)<h1 align="center">Hi 👋, I'm Mehedi Hasan (Parvez)</h1>
+<h3 align="center">I'm a passionate Software Engineer based in Dhaka, Bangladesh. With a love for coding and a knack for problem-solving, I'm on a journey to create meaningful and efficient software solutions.</h3>
 
 ---
 
-<h3 align="center">Technologies I've been working on</h3>
-<p align="left">
-<h5 align="left">Programming Languages</h5><p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
-<!--     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"alt="cplusplus" width="40" height="40" /> &nbsp; -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
-</p><h5 align="left">Front end</h5><p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
-</p><h5 align="left">Back end & Other frameworks</h5><p>
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
-</p><h5 align="left">Database</h5><p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
-</p><h5 align="left">Other tools</h5><p>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<!--     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="cplusplus" width="40" height="40" /> &nbsp; -->
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
-</p>
-</p>
+### My Stacks
+#### Languages: Java | C++ | Javascript | Typescript | Python 
+
+#### Frontend: HTML | CSS | React | Tailwind
+
+#### Backend: Java | Spring Boot | JWT Auth | PostgreSQL | Redis
+
+#### Others: Git | Docker | Latex | Linux
 
 ---
 
