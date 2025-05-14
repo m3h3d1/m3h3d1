@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/27ac4563-d92c-4f3f-b500-18c4826fdcb4)<h1 align="center">Hi 👋, I'm Mehedi Hasan (Parvez)</h1>
+<h1 align="center">Hi 👋, I'm Mehedi Hasan (Parvez)</h1>
 <h3 align="center">I'm a passionate Software Engineer based in Dhaka, Bangladesh. With a love for coding and a knack for problem-solving, I'm on a journey to create meaningful and efficient software solutions.</h3>
 
 ---
@@ -10,7 +10,7 @@
 
 #### Backend: Java | Spring Boot | JWT Auth | PostgreSQL | Redis
 
-#### Others: Git | Docker | Latex | Linux
+#### Others: Git | Docker | Latex | Linux | Elasticsearch | Kibana | Grafana
 
 ---
 
