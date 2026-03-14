@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan (Parvez)</h1>
-<h3 align="center">I'm a passionate Software Engineer based in Dhaka, Bangladesh. With a love for coding and a knack for problem-solving, I'm on a journey to create meaningful and efficient software solutions.</h3>
+<h3 align="center">I'm a Software Engineer based in Dhaka, Bangladesh. With a love for coding and a knack for problem-solving, I'm on a journey to create meaningful and efficient software solutions.</h3>
 
 ---
 
@@ -8,9 +8,9 @@
 
 #### Frontend: HTML | CSS | React | Tailwind
 
-#### Backend: Java | Spring Boot | JWT Auth | PostgreSQL | Redis
+#### Backend: Java | Spring Boot | PostgreSQL | Microservices
 
-#### Others: Git | Docker | Latex | Linux | Elasticsearch | Kibana | Grafana
+#### Others: Git | Docker | Latex | Linux | Redis | Elasticsearch | Kibana | Grafana | GenAI/LLM
 
 ---
 
