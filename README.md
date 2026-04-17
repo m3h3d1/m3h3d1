@@ -4,11 +4,10 @@
 ---
 
 ### My Stacks
-#### Languages: Java | C++ | Javascript | Typescript | Python 
 
-#### Frontend: HTML | CSS | React | Tailwind
+#### Frontend: Javascript | Typescript | React | HTML | CSS | Tailwind
 
-#### Backend: Java | Spring Boot | PostgreSQL | Microservices
+#### Backend: Java | Spring Boot | Python | PostgreSQL | Microservices
 
 #### DevOps: Docker | Kubernetes
 
