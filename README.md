@@ -10,7 +10,7 @@
 
 #### Backend: Java | Spring Boot | PostgreSQL | Microservices
 
-### DevOps: Docker | Kubernetes
+#### DevOps: Docker | Kubernetes
 
 #### Others: Git | Redis | Elasticsearch | Kibana | Grafana | GenAI/LLM | Linux
 
