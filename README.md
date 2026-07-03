@@ -7,7 +7,7 @@
 
 #### Frontend: Javascript | Typescript | React | HTML | CSS | Tailwind
 
-#### Backend: Java | Spring Boot | Python | PostgreSQL | Microservices
+#### Backend: Java | Spring Boot | Golang | Python | PostgreSQL | Microservices
 
 #### DevOps: Docker | Kubernetes
 
